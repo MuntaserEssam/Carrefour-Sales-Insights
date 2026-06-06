@@ -4,6 +4,6 @@ A comprehensive Carrefour sales and customer analysis project built using SQL fo
 
 ## Dashboard Screenshots
 
-![Sales Overview](Screenshot 2026-06-04 125149.png)
+![Sales Overview](Screenshot%202026-06-04%20125149.png)
 
-![Customer Analysis](Screenshot 2026-06-04 125206.png)
+![Customer Analysis](Screenshot%202026-06-04%20125206.png)
